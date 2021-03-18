@@ -12,6 +12,7 @@ class TabBarController: UITabBarController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        setValue(TabBar(), forKey: "tabBar")
         tabBar.barTintColor = UIColor.white
 
         addChild("糗事", "tab_糗事", "tab_糗事_selected", HomeViewController.self)

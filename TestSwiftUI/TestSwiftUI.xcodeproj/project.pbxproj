@@ -19,6 +19,7 @@
 		36CAFF88260340DC00D455CA /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CAFF87260340DC00D455CA /* TabBarController.swift */; };
 		36CAFF912603473800D455CA /* TrendViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CAFF902603473800D455CA /* TrendViewController.swift */; };
 		36CAFF962603474D00D455CA /* LiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CAFF952603474D00D455CA /* LiveViewController.swift */; };
+		36CAFF9E26034A6400D455CA /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CAFF9D26034A6400D455CA /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		36CAFF87260340DC00D455CA /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		36CAFF902603473800D455CA /* TrendViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendViewController.swift; sourceTree = "<group>"; };
 		36CAFF952603474D00D455CA /* LiveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveViewController.swift; sourceTree = "<group>"; };
+		36CAFF9D26034A6400D455CA /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TabBar.swift; path = ../../../../../Documents/TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 			children = (
 				36CAFF822603409100D455CA /* HomeViewController.swift */,
 				36CAFF87260340DC00D455CA /* TabBarController.swift */,
+				36CAFF9D26034A6400D455CA /* TabBar.swift */,
 				36CAFF902603473800D455CA /* TrendViewController.swift */,
 				36CAFF952603474D00D455CA /* LiveViewController.swift */,
 			);
@@ -289,6 +292,7 @@
 				36CAFF5026033F0300D455CA /* AppDelegate.swift in Sources */,
 				36CAFF5226033F0300D455CA /* SceneDelegate.swift in Sources */,
 				36CAFF962603474D00D455CA /* LiveViewController.swift in Sources */,
+				36CAFF9E26034A6400D455CA /* TabBar.swift in Sources */,
 				36CAFF5426033F0300D455CA /* ContentView.swift in Sources */,
 				36CAFF88260340DC00D455CA /* TabBarController.swift in Sources */,
 				36CAFF912603473800D455CA /* TrendViewController.swift in Sources */,
