@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'TestSwiftUI' do
+    pod 'Alamofire'
+    pod 'SwiftyJSON'
+    pod 'Kingfisher'
+    pod 'MJRefresh'
+    pod 'KakaJSON'
+end
