@@ -18,7 +18,6 @@ class TabBarController: UITabBarController {
         addChild("糗事", "tab_糗事", "tab_糗事_selected", HomeViewController.self)
         addChild("动态", "tab_动态", "tab_动态_selected", TrendViewController.self)
         addChild("直播", "tab_直播", "tab_直播_selected", LiveViewController.self)
-
     }
     
 
